@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="146dp"
+	android:layout_height="43dp"
+	android:orientation="horizontal"
+	android:gravity="right">
+
+	<Button
+		android:layout_width="73dp"
+		android:layout_height="wrap_content"
+		android:text="关"
+		android:id="@+id/fmm"
+		android:layout_marginLeft="73dp"/>
+
+</LinearLayout>
+

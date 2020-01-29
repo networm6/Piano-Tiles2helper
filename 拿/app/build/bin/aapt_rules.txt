@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:56
+-keep class cn.leo.messenger.BinderPool { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class simon.nb.AEsirTouchMode { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class simon.nb.SecondScreenImageActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:22
+-keepclassmembers class * { *** doo(...); }
+
